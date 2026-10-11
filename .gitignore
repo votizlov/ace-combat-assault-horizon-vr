@@ -1,0 +1,10 @@
+build-*/
+package/
+diagnostics/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.pdb
+install-manifest.json
+release-staging/
